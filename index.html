@@ -42,15 +42,13 @@
           <p class="card__stats__label">queries</p>
         </div>
       </section>
-
-      <section class="card__header-img">
-        <picture>
-          <source media="(min-width: 1024px)" srcset="./images/image-header-desktop.jpg">
-          
-          <img src="images/image-header-mobile.jpg" alt="employees working in the office">
-        </picture>
-      </section>
     </article>
+
+    <picture class="card__header">
+      <source media="(max-width: 400px)" srcset="./images/image-header-mobile.jpg">
+          
+      <img class="card__header-img" src="images/image-header-desktop.jpg" alt="employees working in the office">
+    </picture>
   </main>
 </body>
 </html>
