@@ -10,7 +10,7 @@ This project is a responsive stats preview card component built with HTML and CS
 - Improved my Git workflow by making regular commits and deploying the project with GitHub Pages.
 
 ## Project
-- Live Site URL: 
+- Live Site URL: https://daxitaseervi.github.io/stats-preview-card/
 ![Project Screenshot](images/project-screenshot.png)
 
 ## Links
